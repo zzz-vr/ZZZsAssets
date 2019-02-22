@@ -5,6 +5,15 @@
 I hope to share my work for the purpose of improving the lives of others, saving their time, and improving the quality of free products that this community delivers on the Steam workshop for use with Pavlov VR.
 
 
+**How to use these products:**
+
+Read and agree to the terms of the license. The license requires that you distribute your final product through the Steam Workshop. The license also requires that you say "Special thanks to ZZZ." in the Steam Workshop item description area.
+
+Download a .ZIP from this github.
+
+Extract the contents of the .ZIP to your Unreal Engine project's content folder.
+
+These assets should now be usable in your project if they are of the same engine version.
 
 **License:**
 
