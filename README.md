@@ -41,7 +41,9 @@ These assets should now be usable in your project if they are of the same engine
 
 * **BOTDean** -- Thank you for your good work maintaining the several community oriented projects that you do.
 
-* **Mark Dey** -- Thank you for your contributions and assistance to various community projects.
+* **MarkDey** -- Thank you for your contributions and assistance to various community projects.
+
+* **Davevillz** -- Thank you for continueing to reinvest in your company and staff. I really wish this game and community the best.
 
 * **Spin** -- Thank you for helping me several times with topics such as UV mapping, light mapping, and more.
 
