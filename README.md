@@ -43,6 +43,8 @@ These assets should now be usable in your project if they are of the same engine
 
 * **Mark Dey** -- Thank you for your contributions and assistance to various community projects.
 
+* **Spin** -- THank you for helping me several times with topics such as UV mapping, light mapping, and more.
+
 * **DragnHntr** -- Thank you for your contributions and assistance to various community projects.
 
 * **You, the Pavlov community** -- For being good people with high ethical standards.
