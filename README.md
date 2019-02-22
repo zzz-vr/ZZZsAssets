@@ -39,6 +39,8 @@ These assets should now be usable in your project if they are of the same engine
 
 * **Tingle** -- Thank you so much for your help in the past. I will miss you. Hope you are OK.
 
+* **CryptoJen** -- Thank you for your contribution of the Battle Royale sound effects. For and only for these sound effects, you have written permission to provide a "Special thanks to Cryptojen." for the purposes of credits for those sound effects. While ZZZ helps, directed, and coordinated the creation of these effects, I am willing to forego my place in the credits for them if that would allow these effects to be used by more projects.
+
 * **BOTDean** -- Thank you for your good work maintaining the several community oriented projects that you do.
 
 * **MarkDey** -- Thank you for your contributions and assistance to various community projects.
