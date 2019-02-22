@@ -51,7 +51,7 @@ These assets should now be usable in your project if they are of the same engine
 
 * **DragnHntr** -- Thank you for your contributions and assistance to various community projects.
 
-* **Kennithhh** -- Thank you for your extensive contributions and assistance to various community projects. Thank you for your door and glass blue print systems that made maps better in 4.15.3.
+* **Kennithh** -- Thank you for your extensive contributions and assistance to various community projects. Thank you for your door and glass blue print systems that made maps better in 4.15.3.
 
 * **You, the Pavlov community** -- For being good people with high ethical standards.
 
