@@ -31,7 +31,7 @@ These assets should now be usable in your project if they are of the same engine
 
 * **ZZZ**
 
-
+* **CryptoJen**
 
 **Special thanks:**
 
