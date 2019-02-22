@@ -61,7 +61,7 @@ These assets should now be usable in your project if they are of the same engine
 
 * **ZZZSpawnpoint** -- As seen on the map "ZZZ's Quake". This is a set of blue prints, attenuations, and sounds that work together with a spawnpoint or teleporter exit. This should be placed in the map above the ground, overlapping a Pavlov Player spawnpoint or teleporter exit. This should also be elevated so that a player walking on the ground will not bump into it. This is very ideal for adding atmosphere to your spawnpoints.
 
-* **ZZZSpawnpoint** -- As seen on the map "ZZZ's Quake". This is a set of blue prints, attenuations, and sounds that will work together to create an elevator system with a variable for maximum height. The elevators are set to trigger when a player stands on them. They work and sound like standard Quake elevators.
+* **ZZZElevator** -- As seen on the map "ZZZ's Quake". This is a set of blue prints, attenuations, and sounds that will work together to create an elevator system with a variable for maximum height. The elevators are set to trigger when a player stands on them. They work and sound like standard Quake elevators.
 
 * **ZZZBattleRoyaleFX** -- As seen on the map "ZZZ's Battlegrounds". This is a set of materials and sounds for the blue zone. If you're a Battle Royale mapper or someone who wants to see how these materials are constructed, this is for you.
 
