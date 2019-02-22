@@ -20,7 +20,7 @@ Assets for use by the Pavlov community in projects distributed through Steam for
 
 Credits:
 
-ZZZ (defined as the entity or person controlling the steam account https://steamcommunity.com/id/jdaxz
+ZZZ
 
 
 
