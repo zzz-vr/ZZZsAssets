@@ -1,5 +1,7 @@
 # ZZZ's Assets
 
+**For beginner guides and tutorials, see the wiki located here: https://github.com/zzz-vr/Tutorials/wiki**
+
 **Personal statement:**
 
 I hope to share my work for the purpose of improving the lives of others, saving their time, and improving the quality of free products that this community delivers on the Steam workshop for use with Pavlov VR. Users are encouraged to submit their changes, variations, and improvements back to this asset collection.
